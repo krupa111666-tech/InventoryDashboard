@@ -26,7 +26,7 @@
 </div>
 
 <iframe>
-src="https://app.powerbi.com/reportEmbed?reportId=f29da768-385e-490b-b9da-468dba5be84f&autoAuth=true&ctid=aed43286-0f66-47d6-942b-d31a4b8addca">
+src=""https://app.powerbi.com/reportEmbed?reportId=f29da768-385e-490b-b9da-468dba5be84f&autoAuth=true&ctid=aed43286-0f66-47d6-942b-d31a4b8addca">
 </iframe>
        
 </body>
